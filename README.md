@@ -2,4 +2,4 @@
 
 Welcome! Click the link below to view my portfolio:
 
-[Visit My Portfolio](https://<your-netlify-url>.netlify.app)
+[Visit My Portfolio](https://aryan-waghere-portfolio.netlify.app/)
