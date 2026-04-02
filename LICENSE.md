@@ -1,7 +1,7 @@
 
 ---
 
-### ✅ `LICENSE.md` (resolved)
+### ✅ `LICENSE.md`
 ```text
 MIT License
 
